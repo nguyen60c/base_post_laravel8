@@ -18,7 +18,7 @@ class RegisterRequest extends FormRequest
 
     /**
      * Get the validation rules that apply to the request.
-     *
+     *asdfasdfadsf
      * @return array
      */
     public function rules()
