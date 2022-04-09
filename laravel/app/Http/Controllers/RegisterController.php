@@ -21,7 +21,7 @@ class RegisterController extends Controller
      * Handle account registration request
      * 
      * @param RegisterRequest $request
-     * sfadfasdfadsf
+     *
      * @return \Illuminate\Http\Response
      */
     public function register(RegisterRequest $request){
