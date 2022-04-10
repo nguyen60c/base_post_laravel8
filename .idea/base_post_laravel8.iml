@@ -33,6 +33,7 @@
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/laravel/sanctum" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/laravel/serializable-closure" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/laravelcollective/html" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/league/commonmark" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/league/config" />
       <excludeFolder url="file://$MODULE_DIR$/laravel/vendor/league/flysystem" />

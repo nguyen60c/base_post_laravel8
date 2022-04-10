@@ -113,6 +113,7 @@
       <path value="$PROJECT_DIR$/laravel/vendor/ramsey/collection" />
       <path value="$PROJECT_DIR$/laravel/vendor/dflydev/dot-access-data" />
       <path value="$PROJECT_DIR$/laravel/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/laravelcollective/html" />
     </include_path>
   </component>
   <component name="PhpUnit">
